@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://prashantpalikhe.github.io/sitemap.xml 
